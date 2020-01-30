@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require nerdify/infura
+$ composer require claushellsing/infura
 ```
 
 ## Usage
